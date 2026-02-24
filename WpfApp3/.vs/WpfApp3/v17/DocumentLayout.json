@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|c:\\users\\basel.muhammed\\source\\repos\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|c:\\users\\basel.muhammed\\source\\repos\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|c:\\users\\basel.muhammed\\source\\repos\\wpfapp3\\expense.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|solutionrelative:expense.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|c:\\users\\basel.muhammed\\source\\repos\\wpfapp3\\expense.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|solutionrelative:expense.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|c:\\users\\basel.muhammed\\source\\repos\\wpfapp3\\expense_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538BEDE5-4B80-487B-AC50-964239FD627B}|WpfApp3.csproj|solutionrelative:expense_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "expense_report.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\expense_report.cs",
+              "RelativeDocumentMoniker": "expense_report.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\expense_report.cs",
+              "RelativeToolTip": "expense_report.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:21:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.Context.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\Expense.Context.cs",
+              "RelativeDocumentMoniker": "Expense.Context.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\Expense.Context.cs",
+              "RelativeToolTip": "Expense.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:19:49.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\Expense.edmx",
+              "RelativeDocumentMoniker": "Expense.edmx",
+              "ToolTip": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\Expense.edmx [Diagram1]",
+              "RelativeToolTip": "Expense.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-02-24T07:08:35.775Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T06:58:22.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\source\\repos\\WpfApp3\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:58:22.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
