@@ -1,0 +1,27 @@
+﻿<Page x:Class="Library_mangment.Book_Filter"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library_mangment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Book_Filter">
+
+    <Grid Background="White">
+        <DataGrid Name="dgbooks" Margin="175,39,68,225" />
+        <Button Content="Show All Books" FontSize="15" FontWeight="Bold" Margin="10,39,655,0" VerticalAlignment="Top" Click="showall_Click"/>
+        <Label Content="Search by Name:" FontWeight="Bold" FontSize="15" Margin="10,239,655,0" VerticalAlignment="Top" />
+        <TextBox Name="txtsearch" Height="28" Margin="10,276,655,0" VerticalAlignment="Top" />
+
+        <Label Content="Enter The Id" FontWeight="Bold" FontSize="15" Margin="332,239,332,0" VerticalAlignment="Top" />
+        <TextBox Name="txtid" Height="27" Margin="332,277,332,0" VerticalAlignment="Top" />
+        <TextBox Name="txttitle" Height="27" Margin="515,276,149,0" VerticalAlignment="Top" />
+
+
+        <Button Content="Search" FontSize="15" FontWeight="Bold" Margin="10,321,655,0" VerticalAlignment="Top" Click="search_Click"/>
+        <Button Content="Update" FontSize="15" FontWeight="Bold" Margin="332,321,332,0" VerticalAlignment="Top" Click="update_Click"/>
+        <Button Content="Delete" FontSize="15" FontWeight="Bold" Margin="515,321,149,0" VerticalAlignment="Top" Click="delete_Click"/>
+
+    </Grid>
+</Page>
