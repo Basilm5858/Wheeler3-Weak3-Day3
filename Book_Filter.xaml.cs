@@ -37,11 +37,6 @@ namespace Library_mangment
             }
         }
 
-        private void delete_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
         private void search_Click(object sender, RoutedEventArgs e)
         {
             using(LibrarysEntities db = new LibrarysEntities())
@@ -58,9 +53,9 @@ namespace Library_mangment
         {
             using(LibrarysEntities db = new LibrarysEntities())
             {
-                if(txtid == null)
+                if(txttitle == null)
                 {
-                    MessageBox.Show("Please Enter The Id");
+                    MessageBox.Show("Please Enter The Title for Update");
                     return;
                 }
                 Book selectedBook = (Book) dgbooks.SelectedItem;
